@@ -4,6 +4,11 @@ using namespace std;
 
 int main()
 {
+    puts("\t\t\t\t\t\t\tMORIUMNASA MIM");
+    puts("\t\t\t\t\t\t\tID: CSE1901016138");
+    puts("\t\t\t\t\t\t\tSection: 16A2");
+    puts("\t\t\t\t\t\t********************************");
+    
     float numbers[20];
     float ratio[20], ratiominus[20];
     float Dplus[20], Dminus[20];
