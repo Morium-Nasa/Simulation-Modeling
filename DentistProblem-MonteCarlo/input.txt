@@ -1,0 +1,21 @@
+5
+Filling
+45
+40
+Crown
+60
+15
+Cleaning
+15
+15
+Extracting
+45
+10
+Checkup
+15
+20
+240
+30
+08:00
+40 82 11 34 25 66 17 79
+
